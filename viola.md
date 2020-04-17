@@ -1,3 +1,5 @@
+Adapted from Flora of the Chicago Region by Wilhelm and Rericha
+
 1. Plants with leafy stems. 
 	2. Plants annual; stipules foliaceous, pectinate to pinnatifid at the base. 
 		3. Enlarged middle lobe of stipules entire or with a single pair of distinct teeth toward the tip; peduncles almost never more than 4 cm long | Viola rafinesquii 
