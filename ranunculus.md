@@ -1,4 +1,5 @@
 Adapted from Flora of the Chicago Region by Wilhelm and Rericha
+
 1. Plants aquatic, occasionally stranded; leaves submersed, divided into numerous filitorm or attenuate segments or flabelliform in stranded forms. 
   2. Petals white; leaf segments filiform, mostly 0.1-0.2 mm wide, essentially the same width throughout their length | Ranunculus longirostris 
   2. Petals yellow; larger leaf segments wider, often tapered or with attenuate tips. 
@@ -27,12 +28,12 @@ Adapted from Flora of the Chicago Region by Wilhelm and Rericha
             10. Base of stem bulbous; sepals soon sharply reﬂexed | Ranunculus bulliosus 
             10. Base of stem not bulbous; sepals reflexed or not.  
               11. Stems erect; sepals reflexed; achenes usually papillose | Ranunculus sardous
-              11. Some of the stems usually arching and sarmentose; sepals spreading; achenes smooth. Petals 5-9 | Ranmiculus repens
+              11. Some of the stems usually arching and sarmentose; sepals spreading; achenes smooth. Petals 5-9 | Ranunculus repens
                 Petals more than 9 | Ranunculus repens pleniﬂoms 
           9. Style and beak slender, soon exceeding 1 mm in length; blade length various. 
             12. Stems glabrate to appressed-pubescent or canescent with antrorse hairs.
               Many of the roots tuberous—thickened; plants less than 3 dm high, the stems densely silky pubescent | Ranunculus fascicularis
               Roots without tuberous thickening; plants soon more than 3 dm high, the stems glabrate or finely appresscd- pubescent | Ranunculus septentrionalis
             12. Stems spreading or retrorsely villous or hispid.
-              Aerial shoots to 5.5 dm at fruiting timee, all ereect, without a tendency to produce sarmentose branches | Ranunculus hispidus
+              Aerial shoots to 5.5 dm at fruiting time, all erect, without a tendency to produce sarmentose branches | Ranunculus hispidus
               Longer aerial shoots at fruiting time more than 5.5 dm long, some of them becoming sarmentose | Ranunculus caricetorum
